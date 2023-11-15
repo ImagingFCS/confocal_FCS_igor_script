@@ -1,11 +1,11 @@
-##Igor scripts for processing confocal FCS data
+## Igor scripts for processing confocal FCS data
 
 This program enables one to to treat confocal FCS data, that can read correlator.com, confocor, leica and picoquant data. There are currently two versions, FCS 2.0 and FCS 2.1. FCS 2.0 works on Igor Version 6 while FCS 2.1 works on Igor version 7, 8, and 9. The file FCS-Fitting functions.ipf contains various models for fitting FCS data.
 
-##Installation Instructions
+## Installation Instructions
 Download the FCS 2.0 or FCS 2.1 and the fitting functions files and place it in the Igor Pro User Procedures folder.
 
-##Sample dataset
+## Sample dataset
 2 nM ATTO 565 in water
 
 ## Disclaimer
